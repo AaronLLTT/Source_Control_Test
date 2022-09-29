@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Source Control Test",
   "resources": [
+    {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -16,7 +17,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
